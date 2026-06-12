@@ -1,0 +1,15 @@
+.container{
+    position: relative;
+    top: 30px;
+    border: 1px solid black;
+    margin: 0 auto;
+    height: 960px;
+    width: 960px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.btn {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+}
